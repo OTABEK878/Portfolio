@@ -1,0 +1,83 @@
+{
+  "skills": [
+    {
+      "title": "HTML",
+      "description": "Markup language for web development.",
+      "src": "path/to/html-icon.png",
+      "color": "#e34c26"
+    },
+    {
+      "title": "CSS",
+      "description": "Styling for web pages.",
+      "src": "path/to/css-icon.png",
+      "color": "#2965f1"
+    },
+    {
+      "title": "JavaScript",
+      "description": "Programming language for interactivity.",
+      "src": "path/to/js-icon.png",
+      "color": "#f7df1e"
+    },
+    {
+      "title": "React",
+      "description": "Library for building user interfaces.",
+      "src": "path/to/react-icon.png",
+      "color": "#61dafb"
+    },
+    {
+      "title": "Node.js",
+      "description": "Backend JavaScript runtime environment.",
+      "src": "path/to/nodejs-icon.png",
+      "color": "#68a063"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "My ticket",
+      "description": "This is my first big project in node js",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "This is my first small project in node js",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Tez Kunda",
+      "description": "Tez Kunda",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
